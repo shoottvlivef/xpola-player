@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://stream.veo.buzz:6050/sport/ch15/ch15_360.m3u8
