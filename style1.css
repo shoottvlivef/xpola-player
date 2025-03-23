@@ -1,7 +1,7 @@
 body {
             margin: 0;
             padding: 0;
-            background-color: #161822;
+            background-color: #000;
             font-family: Arial, sans-serif;
             color: #fff;
             direction: rtl;
@@ -9,7 +9,7 @@ body {
         .header {
             display: flex;
             align-items: center;
-            background-color: #11131B;
+            background-color: #000;
             padding: 10px;
         }
         .header img {
@@ -34,7 +34,7 @@ body {
 }
 
 .channel-title {
-    background-color: #f8f9fa; /* لون الحواف مثل لون الصفحة */
+    background-color: #000; /* لون الحواف مثل لون الصفحة */
     padding: 10px 20px; /* تباعد داخلي للحواف */
     border-radius: 10px; /* جعل الحواف مستديرة */
     text-align: center; /* توسيط النص */
@@ -49,7 +49,7 @@ body {
 .player-container {
     width: 100%;  /* ✅ ضبط العرض الثابت */
     height: 100%; /* ✅ ضبط الارتفاع الثابت */
-    background-color: #1d222d;
+    background-color: #000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -87,7 +87,7 @@ body {
             width: 120px; 
             height: 70px;
             margin: 5px;
-            background-color: #1d222d;
+            background-color: #000;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -114,7 +114,7 @@ body {
     .category-item {
             width: 250px; /* عرض أكبر */
             height: 150px;
-            background-color: #1d222d;
+            background-color: #000;
             margin: 5px;
             display: flex;
             flex-direction: column;
@@ -133,4 +133,4 @@ body {
             color: white;
             font-size: 14px;
             margin-top: 5px;
-        }
+                        }
