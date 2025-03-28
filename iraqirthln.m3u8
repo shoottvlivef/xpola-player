@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_360.m3u8
