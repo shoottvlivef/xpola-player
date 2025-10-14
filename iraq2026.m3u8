@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ei2JffRnU7aYFqDFAJkZ2V-C-0zz2pdijc42VAu-tE6WC53X5-lDY1jozK3iCSuWlC9b0V5ch9NRjRwHD-58nQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+https://cdnfest.com/ftv1-720p-castx/tracks-v1a1/mono.m3u8
+
 
 
 
