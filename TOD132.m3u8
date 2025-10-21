@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-08-dt/DASH/hdntl=exp=1761088176~acl=*%2FContent%2FChannel%2Fsvc-spo-hd-08-dt%2FDASH%2F*~id=c15ca8c6-08c4-4eb0-af1d-c553186c62ce~data=hdntl,aXA9MTg1LjE3Ni40MC4yMDMsYXVkPW1lbmE~hmac=e6b960bd747e88a597a7f8e5523dad9d4849d543209f3f6e15d9c86612cef82c/playlist_ha.mpd
