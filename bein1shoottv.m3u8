@@ -1,7 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://het114a.4rouwanda-shop.store/live/918454578001/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://het104a.4rouwanda-shop.store/live/978480008877005/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-http://het108a.4rouwanda-shop.store/live/31009988005/index.m3u8
+https://mejarserver.site/Test/index.m3u8
