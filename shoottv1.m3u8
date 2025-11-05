@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
 http://chat-30.chatdidi.com/live/221884_.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Jh1DzAAC0_1B_S2ZgRFhfZZnkxGJeQlRxD6AfmGL5STui7ycI-K-YoFg8Mt-x0SR4XIDhSKxV7b0gG3W6rbs5Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 
 
