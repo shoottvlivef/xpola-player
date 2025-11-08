@@ -1,3 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://ffider181.mfkerxs.xyz/live/310421_.m3u8
+http://qwbs-181.didiworldegypt.com/live/572066_.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+http://qwbs-181.didiworldegypt.com/live/310421_.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+http://qwbs-181.didiworldegypt.com/live/126197_.m3u8
