@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98084.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/nNRmp8_akcIIhNBK9OmdlRHyAAKJd1AVmEA-Ca96TcwV-c2QO8wwORf4CrZ0xWykQaLjIBNs_DvW9s7dR8qmeA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
 
 
 
