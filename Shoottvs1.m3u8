@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/eS7-C0GfI5M-Y5oqLxk6aLdZEajpF1GZBNxSl5tUC1OXEAz9-qlG-assoCsSW0XgffHZOZ2VUbLGVBNL_SGrIg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+https://fbb.bassamnetflix2.workers.dev/G1-720p/rewind-20.m3u8
