@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://fbb.bassamnetflix2.workers.dev/G1-720p/tracks-v1a1/rewind-20.m3u8
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/-cTBOGEuPVPaZ5mHjzwuH6zyERQhKQ_yV_Bf_gbWM_fI-iH2CfcNpii8ooYB1NPIvgG4YLOXfjEqhZZLD-F5-A/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_highlatency.m3u8?type=live
+
 
