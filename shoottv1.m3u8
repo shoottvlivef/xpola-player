@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://sdmmt162.provegooott.com/3_.m3u8
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/UHecLhkb8CKeDuDb4oqJ5hEGCVJ8YHvL5Lk0BnE_be6kgxYNxyXuyTdAIvKoUMJCCV7QMxXTAfSjdQyOgTRCzg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
