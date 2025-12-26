@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://ab.footballii.ir/hls2/bein2.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/rcAytasw9FcNYsy4Dw8xcDRrJhB4MiG7V23iRSjNEFETkVDVWp7lU6wvAQLBfwi3o6JEU-jta_qOy1z7CUw7YA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
