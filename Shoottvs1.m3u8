@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://ab.footballii.ir/hls2/bein1.m3u8
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/BvuH95B6dA_cZSzMXfk4GuTfyQIzN46uV3mZ4kaaL2DeHcKJTXyex5oPbOGouIPplFrnKUIJy2Gz3NsuEczHxw/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_delta.m3u8?type=live
